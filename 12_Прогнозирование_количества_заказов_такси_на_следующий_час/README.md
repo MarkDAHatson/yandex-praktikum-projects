@@ -13,3 +13,6 @@
 
 ## Используемые библиотеки
 *pandas*, *numpy*, *sklearn*, *statsmodels*, *catboost*
+
+## Статус проекта
+Проект завершён
